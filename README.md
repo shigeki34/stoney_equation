@@ -23,5 +23,15 @@ We need exact data of L and h for calcurate.
 I hope you probably know the both parameter when you want to calcurate residual strain.
 
 # Stoney Equation
+Stoney Equation is as shown below.
 
 <img src="https://latex.codecogs.com/svg.image?\sigma&space;=&space;\frac{E_{s}t_{s}^{2}}{6(1-\nu&space;_{s})Rt_{f}}" title="\sigma = \frac{E_{s}t_{s}^{2}}{6(1-\nu _{s})Rt_{f}}" />
+
+where the subscripts s and f refer to substrate and film variables, Es is the elastic modulus for the substrate, t is the thickness, R is the radius of curvature, and ν is Poisson’s ratio.
+
+Elastic modulus and Poisson's ratio are here.
+
+| th左 | th中央 | th右 |
+| :-- | :-: | --: |
+| td | td | td |
+
