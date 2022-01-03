@@ -33,6 +33,12 @@ Elastic modulus and Poisson's ratio are here.
 
 | | SiC | GaN | AlN |
 | :-- | :-: | :-: | :-: |
-|elastic modulus (GPa) |  | td | td |
-|Poisson's ratio |  | td | td |
+|elastic modulus (GPa) | 748 | 150 | 308 |
+|Poisson's ratio | 0.21 | 0.23 | 0.287 |
 
+## References
+1. Characterization of Thin Films Using High Definition Confocal Microscopy  
+https://www.leica-microsystems.com/science-lab/characterization-of-thin-films-using-high-definition-confocal-microscopy/
+2. http://www.ioffe.ru/SVA/NSM/Semicond/SiC/mechanic.html
+3. http://www.ioffe.ru/SVA/NSM/Semicond/GaN/mechanic.html
+4. http://www.ioffe.ru/SVA/NSM/Semicond/AlN/mechanic.html
