@@ -71,7 +71,7 @@ print('Number of iterations = ', it, "\n Final Solution:")
 for i in range(0, n):
     print('x[', i,'] = ', x[i])
 
-#Young's rate [GPa]
+#Elastic modulus rate [GPa]
 E_SiC = 748
 E_GaN = 150
 E_AlN = 308
