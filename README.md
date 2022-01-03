@@ -16,6 +16,8 @@ h: height
 R: radius of curvature  
 Θ: angle  
 
+![Fig1](image/fig1.png)
+
 Ver 1.0  
 We need exact data of L and h for calcurate.
 I hope you probably know the both parameter when you want to calcurate residual strain.
