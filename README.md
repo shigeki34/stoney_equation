@@ -31,7 +31,9 @@ where the subscripts s and f refer to substrate and film variables, Es is the el
 
 Elastic modulus and Poisson's ratio are here.
 
-| th左 | th中央 | th右 |
-| :-- | :-: | --: |
-| td | td | td |
+| | SiC | GaN | AlN |
+| :-- | :-- | :-: | --: |
+|elastic modulus (GPa) |  | td | td |
+| :-- | :-- | :-: | --: |
+|Poisson's ratio |  | td | td |
 
