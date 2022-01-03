@@ -22,3 +22,6 @@ Ver 1.0
 We need exact data of L and h for calcurate.
 I hope you probably know the both parameter when you want to calcurate residual strain.
 
+# Stoney Equation
+
+<img src="https://latex.codecogs.com/svg.image?\sigma&space;=&space;\frac{E_{s}t_{s}^{2}}{6(1-\nu&space;_{s})Rt_{f}}" title="\sigma = \frac{E_{s}t_{s}^{2}}{6(1-\nu _{s})Rt_{f}}" />
